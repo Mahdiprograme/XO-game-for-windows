@@ -1,0 +1,12 @@
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.exe.config
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.exe
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.pdb
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.csprojResolveAssemblyReference.cache
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Form1.resources
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Properties.Resources.resources
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.exe
+c:\users\mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.pdb
+C:\Users\Mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.SplashScreen.resources
+C:\Users\Mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.settings.resources
+C:\Users\Mahdi\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.WinMessage.resources
